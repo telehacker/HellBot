@@ -64,7 +64,7 @@
 
 ------
 ## Deploy Locally
-- Get detailed guide at [docs.hellbot.tech](https://docs.hellbot.tech/hellbot-userbot/deploy-locally)
+- Get detailed guide at [docs.hellbot.tech](https://docs.hellbot.tech/hellbot-userbot/deploy-locally)https://github.com/The-HellBot/HellBot
 
 ------
 ## Variables
